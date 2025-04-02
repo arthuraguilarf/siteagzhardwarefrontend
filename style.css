@@ -1,0 +1,99 @@
+table{
+    width: 100%;
+    height: 98vh;
+}
+tr{
+    height: 7.7%;
+}
+td{
+    width: 5%;
+}
+.house{
+    height: 25px;
+}
+.lupa{
+    height: 25px;
+}
+.barras{
+    height: 25px;
+}
+.cabec{
+    background-color: blue;
+}
+.logo{
+    height: 50px;
+
+}
+.chave{
+    height: 15px;
+}
+.cabec1{
+    background-color: blue;
+    text-align: center;
+}
+.esc1{
+    text-align: center;
+}
+.esc2{
+    text-align: center;
+    font-size: 30px;
+}
+.card{
+    background-color: blue;
+}
+.title{
+    text-align: center;
+}
+.fotos{
+    height: 200px;
+    text-align: center;
+}
+.label{
+    text-align: center;
+}
+.fotos2{
+    height: 270px;
+}
+.princ{
+    font-size: 18px;
+}
+.imgqs{
+    background-color: blue;
+}
+.imgquem{
+    height: 560px;
+    width: 740px;
+    text-align: center;
+}
+.txtqs{
+    font-size: 20px;
+    text-align: center;
+}
+.fundo{
+    background-color: blue;
+}
+.logoinic{
+    height: 300px;
+}
+.escinic{
+    text-align: center;
+    font-size: 50px;
+}
+.escinic2{
+    text-align: center;
+    font-size: 25px;
+}
+.vendas{
+    background-color: blue;
+    text-align: center;
+}
+.imgvenda{
+    height: 100px;
+    width: 250px;
+}
+.rodape{
+    height: 30px;
+}
+.rodapetxt{
+    text-align: center;
+}
